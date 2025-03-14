@@ -1,4 +1,4 @@
-# Inventory Dashboard
+# IT-Inventory
 
 Este es el frontend de la aplicación para gestionar el inventario de equipos.
 
@@ -19,3 +19,12 @@ Desarrollado con React, proporciona una interfaz interactiva que permite a los u
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/JoseCarlos00/it-inventory-app.git
+
+2. Instala las dependencias:
+   ```bash
+   npm install
+3. Corre la aplicación:
+   ```bash
+   npm start
+
+
